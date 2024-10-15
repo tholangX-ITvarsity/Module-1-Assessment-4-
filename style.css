@@ -1,0 +1,15 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 10px;
+    border-style:double;
+    border-color:deeppink;
+    text-align: center;
+    font-size: larger;
+}
+
+th{
+    font-weight: 800;
+    background-color: deeppink;
+    color: #ffffff;
+}
